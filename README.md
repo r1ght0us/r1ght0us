@@ -14,9 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 <table>
     <tr>
+    <!--
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=r1ght0us&show_icons=true&hide_border=true&theme=calm" ></center>
-        </td>
+        </td>-->
         <td >
             <center><img src="https://github-readme-stats.vercel.app/api?username=r1ght0us&show_icons=true&hide_border=true&theme=aura_dark" ></center>
         </td>
